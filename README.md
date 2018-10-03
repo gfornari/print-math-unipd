@@ -1,5 +1,5 @@
 # print-math-unipd
-A tool to easily print PDFs in the Math labs in the University of Padua.
+A tool to easily print PDFs in the Math labs of the University of Padua.
 
 ## Usage
 Make sure it's executable:

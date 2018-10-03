@@ -56,6 +56,8 @@ The `2x2` option means:
 |-----|-----|   |-----|-----|
 ```
 
+And so on for the other possibile schemes.
+
 ## Notes
 * It creates a new folder `print-ready` in the current directory.
 * It tries to parallelise the processing using the maximum number of cores.
